@@ -1,0 +1,10 @@
+Summary
+Components
+Description
+Preconditions
+Steps to reproduce
+Actual result
+Expected result
+Priority
+Environment
+Attachments
