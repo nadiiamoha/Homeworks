@@ -1,9 +1,0 @@
-#!/bin/bash
-mkdir CourseNadezhda
-cd CourseNadezhda
-mkdir {folder1,folder2,folder3}
-cd folder1
-touch {file1,file2,file3}.txt {file4,file5}.json
-mkdir {folder1.1,folder1.2,folder1.3}
-ls -la
-mv file1.txt file4.json ../folder2
